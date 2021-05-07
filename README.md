@@ -8,3 +8,11 @@
 * Software: Python
 * Packages: Pushshift API, BeautifulSoup
 * Data: Yahoo Finance, Reddit WallstreetBets
+
+**Total Comments on Wallstreetbets & Close Price of GME**
+
+![image](https://user-images.githubusercontent.com/74162007/117516979-8430cd00-af4f-11eb-9273-2342b1a76473.png)
+
+**Close Price of GME & Sentiment Score (Compound)**
+
+![image](https://user-images.githubusercontent.com/74162007/117517004-96127000-af4f-11eb-88b7-6676812a313d.png)
